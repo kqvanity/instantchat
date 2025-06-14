@@ -1,6 +1,7 @@
-# OmegleChat
+# Instant Chat
 
-A new Android client for the [Omegle website](https://www.omegle.com).
+A new Android. I reverse engineered the original service client for a random Chatting service.
+I reverse engineered the original service then rebuilt android client for it In Kotlin.
 
 ## Features
 - [ ] Block Users
